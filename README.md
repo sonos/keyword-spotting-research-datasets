@@ -9,16 +9,15 @@ Datasets mentioned in this publication:
 
 ```
 Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions
-and gating"
+and gating" (to be published soon)
 ```
 
-[link]
 
 A different version was used in [Leroy et al., 2018, "Federated learning for keyword spotting"](https://arxiv.org/abs/1810.05512).
 
 Please mention which version you want access to in your contact email (see below).
 
-### Dataset
+### Datasets
 
 The wake word is "Hey Snips" pronounced with no pause between the two words. Both Data Sets contains a large variety of 
 English accents and recording environments. Note that negative samples have been recorded in the same conditions than wake-word utterances, therefore arising from the same domain (speaker, hardware, environment, etc.).
@@ -29,10 +28,14 @@ there is no equivalent in the specific wake-word detection field. By establishin
 detection, we hope to contribute to promote transparency and reproducibility in a highly concurrent field where datasets
  are often kept private.
  
-The datasets are available upon requests as described in the Dataset access section below.
+The datasets are available upon requests as described in the Dataset access
+section below.
 
-Please note that the statistics provided below might not remain consistent with the datasets provided as we might receive 
-opt-out requests from the dataset contributors.
+Please note that the statistics displayed below might not
+remain consistent with the datasets provided. Indeed, under the
+GDPR and since voice recordings constitute personal data, dataset contributors
+have the right to opt out, see [the full License Terms](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) for
+more details.
 
 
 #### Dataset 1: Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions and gating"
@@ -67,8 +70,8 @@ This crowdsourcing-induced data distribution mimicks a real-world non-i.i.d, unb
 
 Use only for academic and/or research purposes. No commercial use.
 Publication permitted only if the Datasets are unmodified and subject to the same license terms.
-Any publication must include a full citation to the paper in which the Data
-Sets were initially published by Snips:
+Any publication must include a full citation to the paper in which the
+datasets were initially published by Snips:
 
 ```
 Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions
