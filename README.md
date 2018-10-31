@@ -43,7 +43,7 @@ more details.
 Positive data has been cleaned by automatically removing samples of extreme duration (1st and 99th percentiles), or 
 samples with repeated occurrences of the wake word. Positive dev and test sets have been manually cleaned to discard any
  mispronunciations of the wake word (e.g. "Hi Snips" or "Hey Snaips"), leaving the training set untouched.
- Around 11K wake word utterances and 86.5K (~23 hours) negative examples have been recorded. 
+ Around 11K wake word utterances and 86.5K negative examples have been recorded. 
 
 |          |               |  Train |  Dev   |  Test  | 
 |----------|---------------|--------|--------|--------| 
