@@ -5,11 +5,10 @@
 ### Reference
 
 This repository contains the license and instructions relative to the open
-Datasets mentioned in this publication:
+Datasets mentioned in [this publication](https://arxiv.org/abs/1811.07684):
 
 ```
-Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions
-and gating" (to be published soon)
+Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions and gating"
 ```
 
 
