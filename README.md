@@ -10,11 +10,9 @@ Datasets mentioned in [this publication](https://arxiv.org/abs/1811.07684):
 ```
 Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions and gating"
 ```
+Any publication must include a full citation to this paper.
 
-
-A different version was used in [Leroy et al., 2018, "Federated learning for keyword spotting"](https://arxiv.org/abs/1810.05512).
-
-Please mention which version you want access to in your contact email (see below).
+A different version was used in [Leroy et al., 2018, "Federated learning for keyword spotting"](https://arxiv.org/abs/1810.05512). Please mention which version you want access to in your contact email (see below).
 
 ### Datasets
 
@@ -69,7 +67,7 @@ This crowdsourcing-induced data distribution mimicks a real-world non-i.i.d, unb
 
 Use only for academic and/or research purposes. No commercial use.
 Publication permitted only if the Datasets are unmodified and subject to the same license terms.
-Any publication must include a full citation to the paper in which the
+Any publication must include a full citation to the [paper](https://arxiv.org/abs/1811.07684) in which the
 datasets were initially published by Snips:
 
 ```
