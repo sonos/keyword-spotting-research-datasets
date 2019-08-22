@@ -79,11 +79,10 @@ Please read [the full License Terms](https://github.com/snipsco/keyword-spotting
 
 ## Dataset access
 
-To access the data, please write an email mentioning your affiliation and
-the Dataset version (either 1 or 2, see descriptions above).
+To access the data, please fill the following form:
 
 ```
-research-datasets@snips.ai
+https://forms.gle/JtmFYM7xK1SaMfZYA
 ```
 
 You will be granted access shortly and will be provided with a temporary url to download it.
