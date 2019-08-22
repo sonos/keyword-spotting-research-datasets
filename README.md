@@ -81,9 +81,8 @@ Please read [the full License Terms](https://github.com/snipsco/keyword-spotting
 
 To access the data, please fill the following form:
 
-```
-https://forms.gle/JtmFYM7xK1SaMfZYA
-```
+[https://forms.gle/JtmFYM7xK1SaMfZYA](https://forms.gle/JtmFYM7xK1SaMfZYA)
+
 
 You will be granted access shortly and will be provided with a temporary url to download it.
 The dataset archive contains the following files:
