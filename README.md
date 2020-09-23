@@ -8,11 +8,13 @@ This repository contains the license and instructions relative to the open
 Datasets mentioned in [this publication](https://arxiv.org/abs/1811.07684):
 
 ```
-Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions and gating"
+Coucke A. et al., "Efficient keyword spotting using dilated convolutions and gating",
 ```
+accepted for publication to ICASSP 2019.
+
 Any publication must include a full citation to this paper.
 
-A different version was used in [Leroy et al., 2018, "Federated learning for keyword spotting"](https://arxiv.org/abs/1810.05512). Please mention which version you want access to in your contact email (see below).
+A different version was used in [Leroy D. et al., "Federated learning for keyword spotting"](https://arxiv.org/abs/1810.05512), also accepted for publication to ICASSP 2019. Please mention which version you want access to in the contact form (see below).
 
 ### Datasets
 
@@ -35,7 +37,7 @@ have the right to opt out, see [the full License Terms](https://github.com/snips
 more details.
 
 
-#### Dataset 1: Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions and gating"
+#### Dataset 1: Coucke et al., 2019, "Efficient keyword spotting using dilated convolutions and gating"
 
 Positive data has been cleaned by automatically removing samples of extreme duration (1st and 99th percentiles), or 
 samples with repeated occurrences of the wake word. Positive dev and test sets have been manually cleaned to discard any
@@ -53,7 +55,7 @@ samples with repeated occurrences of the wake word. Positive dev and test sets h
 
 
 
-#### Dataset 2: Leroy et al., 2018, "Federated learning for keyword spotting"
+#### Dataset 2: Leroy et al., 2019, "Federated learning for keyword spotting"
 
 This crowdsourcing-induced data distribution mimicks a real-world non-i.i.d, unbalanced and highly distributed setting, and a parallel is drawn in the following work between a crowdsourcing contributor and a voice assistant user. The train, dev and test splits are built purposely using distinct users, 77\% of users being used solely for training while the 23\% remaining are used for parameter tuning and final evaluation. The dataset statistics are provided below
 
@@ -63,28 +65,8 @@ This crowdsourcing-induced data distribution mimicks a real-world non-i.i.d, unb
 | Speakers   | 1,374  | 200   | 200    | 1,774  | 
 
 
-## License summary
+#### Format
 
-Use only for academic and/or research purposes. No commercial use.
-Publication permitted only if the Datasets are unmodified and subject to the same license terms.
-Any publication must include a full citation to the [paper](https://arxiv.org/abs/1811.07684) in which the
-datasets were initially published by Snips:
-
-```
-Coucke et al., 2018, "Efficient keyword spotting using dilated convolutions
-and gating
-```
-
-Please read [the full License Terms](https://github.com/snipsco/keyword-spotting-research-datasets/blob/master/LICENSE) before accessing the Data Sets.
-
-## Dataset access
-
-To access the data, please fill the following form:
-
-[https://forms.gle/JtmFYM7xK1SaMfZYA](https://forms.gle/JtmFYM7xK1SaMfZYA)
-
-
-You will be granted access shortly and will be provided with a temporary url to download it.
 The dataset archive contains the following files:
 ```
 * train.json
@@ -119,4 +101,28 @@ An example of such an entry is provided below:
   }
 ```
 
+## License summary
 
+Use only for academic and/or research purposes. No commercial use.
+Publication permitted only if the Datasets are unmodified and subject to the same license terms.
+Any publication must include a full citation to the [paper](https://arxiv.org/abs/1811.07684) in which the
+datasets were initially published by Snips<sup>1</sup>:
+
+```
+Coucke A. et al., 2019, "Efficient keyword spotting using dilated convolutions and gating,
+```
+accepted for publication to ICASSP 2019.
+
+Please read [the full License Terms](https://github.com/sonos/keyword-spotting-research-datasets/blob/master/LICENSE) before accessing the Data Sets.
+
+## Dataset access
+
+To access the data, please fill the following form:
+
+[https://forms.gle/JtmFYM7xK1SaMfZYA](https://forms.gle/JtmFYM7xK1SaMfZYA)
+
+You will be granted access shortly and will be provided with a temporary url to download it.
+
+
+
+<sup>1</sup> *The Snips team has joined Sonos in November 2019. These open datasets remain available and their access is now managed by the Sonos Voice Experience Team. Please email sve-research@sonos.com with any question.*
