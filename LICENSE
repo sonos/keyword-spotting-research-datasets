@@ -5,16 +5,16 @@ In summary:
 
 Use only for academic and/or research purposes. No commercial use.
 Publication permitted only if the Data Sets are unmodified and subject to the same license terms.
-Any publication must include a full citation to the paper in which the Data Sets were initially published by Snips.
+Any publication must include a full citation to the paper in which the Data Sets were initially published by Sonos.
 
 Please read the full License Terms before accessing the Data Sets.
 
 
-These license terms (“License Terms”) apply to the data sets made available by Snips (“Data Sets”). By clicking “accept”, requesting access, and/or otherwise accessing the Data Sets, you agree to be bound by these License Terms. If you do not agree to be bound by these License Terms, you are not permitted to access the Data Sets.
+These license terms (“License Terms”) apply to the data sets made available by Sonos (“Data Sets”). By clicking “accept”, requesting access, and/or otherwise accessing the Data Sets, you agree to be bound by these License Terms. If you do not agree to be bound by these License Terms, you are not permitted to access the Data Sets.
 
 1. License
 
-	Snips grants you a worldwide, royalty-free, non-exclusive, personal, non-transferable license (the “License”) to :
+	Sonos grants you a worldwide, royalty-free, non-exclusive, personal, non-transferable license (the “License”) to :
 
 		(a) use, copy, reproduce for internal purposes, integrate, modify, display internally, train algorithms or models on, experiment with, or otherwise conduct private research on, the Data Sets, either on an unmodified basis, with modifications, or as part of a larger work;
 
@@ -26,7 +26,7 @@ These license terms (“License Terms”) apply to the data sets made available 
 
 	As consideration for the License granted above, any publication of the unmodified Data Sets shall be allowed only under the terms of the License. You must inform any further recipients that use of the Data Sets is governed by the License Terms, and provide them with a copy of them. 
 
-	You must also include a full citation to the paper in which the Data Sets were initially published by Snips in any publication.
+	You must also include a full citation to the paper in which the Data Sets were initially published by Sonos in any publication.
 
 3. Disclaimer
 
@@ -36,23 +36,23 @@ These license terms (“License Terms”) apply to the data sets made available 
 
 	You acknowledge that the Data Sets contain the voice recordings of individuals as well as certain demographic data pertaining to those individuals, which, together and/or separately, may constitute personal data, including under the GDPR. You understand and agree that by making use of the Data Sets under these License Terms, you act as sole data controller as regards your processing of the personal data contained in the Data Sets. You are solely responsible for and warrant your compliance with regards to the GDPR and/or any other applicable data protection laws in the context of that activity.
 
-	Snips warrants that the data subjects concerned have been informed that their personal data would be open sourced and made available for use for non-commercial academic and research purposes and have been given a reasonable opportunity to opt-out of that use. You understand that if you make any other use of the personal data, you may be exposed to regulatory and criminal sanctions under the GDPR and applicable national data protection laws, in addition to liability to Snips for misuse of the Data Sets contrary to these License Terms.
+	Sonos warrants that the data subjects concerned have been informed that their personal data would be open sourced and made available for use for non-commercial academic and research purposes and have been given a reasonable opportunity to opt-out of that use. You understand that if you make any other use of the personal data, you may be exposed to regulatory and criminal sanctions under the GDPR and applicable national data protection laws, in addition to liability to Sonos for misuse of the Data Sets contrary to these License Terms.
 
-	As data controller, you are responsible for responding to enquiries from data subjects and the competent authority concerning your processing of the personal data. Snips will promptly transfer any requests it may receive that concern you in this respect, using the email address you provided before accessing the Data Sets.
+	As data controller, you are responsible for responding to enquiries from data subjects and the competent authority concerning your processing of the personal data. Sonos will promptly transfer any requests it may receive that concern you in this respect, using the email address you provided before accessing the Data Sets.
 
-	If you are located outside of the European Union, your use of the Data Sets may constitute a transfer of personal data to a country not guaranteeing an adequate level of protection of personal data under the GDPR. If that is the case, you agree to the terms contained in the standard EU model clauses attached under Appendix 1 hereto. You will be considered “data importer” and Snips will be considered “data exporter” for those purposes.
+	If you are located outside of the European Union, your use of the Data Sets may constitute a transfer of personal data to a country not guaranteeing an adequate level of protection of personal data under the GDPR. If that is the case, you agree to the terms contained in the standard EU model clauses attached under Appendix 1 hereto. You will be considered “data importer” and Sonos will be considered “data exporter” for those purposes.
 
 5. Indemnification
 
-	You agree to fully indemnify and defend Snips for any and all third party claim, demand or proceedings and all related judgments, liabilities, sanctions, awards, damages, costs, including reasonable attorneys’ fees and expenses, arising out of or in connection with, your use of the Data Sets, including any intellectual property claims or claims relating to misuse of personal data or non-compliance with applicable privacy laws.
+	You agree to fully indemnify and defend Sonos for any and all third party claim, demand or proceedings and all related judgments, liabilities, sanctions, awards, damages, costs, including reasonable attorneys’ fees and expenses, arising out of or in connection with, your use of the Data Sets, including any intellectual property claims or claims relating to misuse of personal data or non-compliance with applicable privacy laws.
 
 6. Limitation of Liability
 
-	To the fullest extent permitted by law, Snips shall have no liability to you for any direct, indirect, special, incidental or consequential damages of any character.
+	To the fullest extent permitted by law, Sonos shall have no liability to you for any direct, indirect, special, incidental or consequential damages of any character.
 
 7. Termination
 
-	The rights granted under these License Terms will terminate automatically if you fail to comply with any of its terms or if you initiate litigation against Snips or any contributor having used the Data Sets in accordance with these License Terms.
+	The rights granted under these License Terms will terminate automatically if you fail to comply with any of its terms or if you initiate litigation against Sonos or any contributor having used the Data Sets in accordance with these License Terms.
 
 	You will be required to delete the Data Sets upon termination of the License for any reason.
 
